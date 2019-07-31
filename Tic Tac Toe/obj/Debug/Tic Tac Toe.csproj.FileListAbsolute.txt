@@ -1,0 +1,15 @@
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\MainWindow.g.cs
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\App.g.cs
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.cache
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe_MarkupCompile.lref
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\MainWindow.baml
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.g.resources
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\Git\Programs\Calc\TicTacToe Game\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
